@@ -49,3 +49,4 @@ This app set up could be applied to other country-based data. You could, for exa
 
 The biggest issue with this topic is that its data is interesting but pretty fuzzy. There's no clean data set that displays how each child born directly relates to an increase in carbon emissions. This project will have to be theory based and mainly focused on identifying areas that need support. It will also be difficult to find ways to support different regions. I expect the final version of this project to be clean and polished, however, I'm not opposed to having this app be a launching point for further resources and research on how to help the planet with family planning and education.
   
+  
