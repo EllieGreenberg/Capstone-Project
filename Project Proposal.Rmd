@@ -1,5 +1,3 @@
-# Capstone-Project
-
 ---
 title: "Project Proposal"
 author: "Elana Greenberg"
