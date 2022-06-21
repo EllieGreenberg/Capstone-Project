@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Many don’t realize it, but contraceptives and family planning have a giant impact on reducing our planet's carbon emissions, 20 times more of an impact than things like recycling or driving an efficient car, because...well... humans are responsible for most carbon emissions. Using worldwide contraceptive data, I'm creating an interactive map to pinpoint areas that are lacking contraceptive care and hope to find out why those areas are struggling more than others.  
+Many don’t realize it, but contraceptives and family planning have a giant impact on reducing our planet's carbon emissions, 20 times more of an impact than things like recycling or driving an efficient car, because...well... humans are responsible for most carbon emissions. Using worldwide contraceptive data, I'm creating an interactive map to pinpoint areas that are lacking contraceptive care and hope to find out why those areas are struggling more than others.   
 
 ## Context
 
