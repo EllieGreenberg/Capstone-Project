@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Many don’t realize it, but contraceptives and family planning have a giant impact on reducing our planet's carbon emissions, 20 times more of an impact than things like recycling or driving an efficient car, because...well... humans are responsible for most carbon emissions. Using worldwide contraceptive data, I'm creating an interactive map to pinpoint areas that are lacking contraceptive care and hope to find out why those areas are struggling more than others.   
+Many don’t realize it, but contraceptives and family planning have a giant impact on reducing our planet's carbon emissions, 20 times more of an impact than things like recycling or driving an efficient car, because...well... humans are responsible for most carbon emissions. Using worldwide contraceptive data, I'm creating an interactive map to pinpoint areas that are lacking contraceptive care and hope to find out why those areas are struggling more than others.    
 
 ## Context
 
@@ -60,7 +60,7 @@ The first thing I looked at was the number of uninsured women were likely in nee
 
 I noticed from this map, the number of people was highly reliant on the population of that state. Since this data was sourced from 2016, I found a data set that contained the state populations from that year and connected the two tables based on state. Then I made a new variable that found the percent of people in each state who were uninsured and in need of resources.
 
-![Image2]("Image2.png")
+![Image2]("Image2.png") 
 
 This map shows that the percentage only ranges from 4-8 percent. We can now see which states need support because they have a large number of people (our first image) and which states have a larger percentage of women needing support (our second image). It appears that many states in the south and traditionally republican states don't appear to have as good contraceptive care resources for their residents. To show this difference in political parties, I decided to show states political affliction for that year.
 
