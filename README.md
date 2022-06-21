@@ -56,15 +56,15 @@ This EDA was done through tableau rather than R. Images render best within table
 
 The first thing I looked at was the number of uninsured women were likely in need of contraceptives and supplies. I looked at a map of the US and colored the different states depending on the number of women who needed care.
 
-![Image1]("Image1.png")
+image1
 
 I noticed from this map, the number of people was highly reliant on the population of that state. Since this data was sourced from 2016, I found a data set that contained the state populations from that year and connected the two tables based on state. Then I made a new variable that found the percent of people in each state who were uninsured and in need of resources.
 
-![Image2]("Image2.png") 
+image2 
 
 This map shows that the percentage only ranges from 4-8 percent. We can now see which states need support because they have a large number of people (our first image) and which states have a larger percentage of women needing support (our second image). It appears that many states in the south and traditionally republican states don't appear to have as good contraceptive care resources for their residents. To show this difference in political parties, I decided to show states political affliction for that year.
 
-![Image2]("Image3.png")
+image 3
 
 This new graph told a much better story. I was originally worried this data was completely based off of census data (they used surveys to calculate information as well but they don't elaborate what fields surveys helped calculate and what just uses census data) we and the population data I found was just different enough from their calculations that it appeared there was some random difference between states. However, the difference in contraceptive access for Republican and Democratic states shows that this isn't a completely random calculation. There is a clear correlation between a state's political leanings and the percentage of women who are in need of publicly funded contraceptive care and resources. 
 
