@@ -23,7 +23,7 @@ I hope to use a mix of R Studio and Tableau to make an interactive resource (cur
 ### What I expect/hope to find
 It's hard to say exactly what states will have more issues than others, but I can already see a relationship between people’s access to contraceptive care and their state’s political affiliations. I hope that this project will help me illuminate the relationship of who has the biggest issues accessing contraceptive resources and how those folks are disproportionately affected by climate change. I think this final argument will help tie the whole project together.
 
-## Conclusion
+## Conclusion  
 
 ### Summary
 Our world's carbon emissions are getting out of control and many are left feeling like there isn't much they can do to stop it. Many environmentally friendly choices (like composting or purchasing eco-friendly products) aren't accessible to all and do not meaningfully impact carbon emissions. In contrast, better family planning and allocation of educational resources is something individuals can fund right now that actually makes a measurable impact. An interactive heatmap will give people a way to find out what US states (and what people in those states) need the most support giving their residents proper reproductive health care.
