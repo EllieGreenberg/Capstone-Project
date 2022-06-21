@@ -1,0 +1,9 @@
+---
+title: tryi it out
+author: ellie
+date: '2022-06-20'
+slug: tryi-it-out
+categories: []
+tags: []
+---
+here's a post
